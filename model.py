@@ -247,4 +247,4 @@ def main():
     income_graph.show(Zone.ZONES)
 
 if __name__ == "__main__":
-    main()
+    
